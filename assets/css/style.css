@@ -48,43 +48,24 @@
   --weight-regular: 400;
   --weight-semiBold: 600;
 
-  /**
-   * SPACING
-   */
 
   --section-spacing: 80px;
 
-  /**
-   * BOX SHADOW
-   */
+ 
 
   --shadow: 0px 4px 40px hsla(0, 0%, 0%, 0.1);
 
-  /**
-   * BORDER RADIUS
-   */
-
+ 
   --radius-5: 5px;
   --radius-8: 8px;
   --radius-12: 12px;
   --radius-circle: 50%;
-
-  /**
-   * TRANSITION
-   */
 
   --transition-1: 250ms ease;
   --transition-2: 500ms ease;
 
 }
 
-
-
-
-
-/*-----------------------------------*\
-  #RESET
-\*-----------------------------------*/
 
 *,
 *::before,
